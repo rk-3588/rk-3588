@@ -1,5 +1,4 @@
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/snk.svg?raw=true"
-width="100%">
+
 ## Hi there 👋
 - 🔭 I’m currently working on development and exploration
 - 🌱 I’m currently learning FlashAttention
