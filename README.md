@@ -1,3 +1,5 @@
+<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/snk.svg?raw=true"
+width="100%">
 ## Hi there 👋
 - 🔭 I’m currently working on development and exploration
 - 🌱 I’m currently learning FlashAttention
@@ -6,7 +8,6 @@
 
 ### **My <u>Skills</u>** 🌟
 ![](https://img.shields.io/badge/STM32-339999?style=flat-square&logo=stmicroelectronics&logoColor=fff)
-![](https://img.shields.io/badge/stmicroelectronics?style=flat-square&logoColor=fff)
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=000)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
@@ -25,6 +26,8 @@
 
 <br>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-3588&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 <!--
 **rk-3588/rk-3588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
