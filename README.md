@@ -1,4 +1,4 @@
-![GitHub Snake](assets/github-contribution-grid-snake.svg)
+![contribution snake dark](./assets/github-contribution-grid-snake-dark.svg)
 ## Hi there 👋
 - 🔭 I’m currently working on development and exploration
 - 🌱 I’m currently learning FlashAttention
