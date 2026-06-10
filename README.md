@@ -2,8 +2,10 @@
 ## Hi there 👋
 - 🔭 I’m currently working on development and exploration
 - 🌱 I’m currently learning FlashAttention
-
+  
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=How+it+works;Why;What)
 <br/>
+
 
 ### **My <u>Skills</u>** 🌟
 ![](https://img.shields.io/badge/STM32-339999?style=flat-square&logo=stmicroelectronics&logoColor=fff)
@@ -26,7 +28,7 @@
 <br>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-3588&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/rk-3588/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rk-3588) visitor,Thank You!😘😘
 
 <!--
 **rk-3588/rk-3588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
