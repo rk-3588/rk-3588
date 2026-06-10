@@ -1,12 +1,12 @@
 ## Hi there 👋
 - 🔭 I’m currently working on development and exploration
 - 🌱 I’m currently learning FlashAttention
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=rk-3588&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-3588&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <br/>
 
 ### **My <u>Skills</u>** 🌟
+![](https://img.shields.io/badge/STM32-339999?style=flat-square&logo=stmicroelectronics&logoColor=fff)
+![](https://img.shields.io/badge/stmicroelectronics?style=flat-square&logoColor=fff)
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=cplusplus&logoColor=000)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=fff)
@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/-docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 
 <br>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-3588&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <!--
 **rk-3588/rk-3588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
