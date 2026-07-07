@@ -28,7 +28,7 @@
 <br>
 
 ## Statistics 📊
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-3588&layout=compact&text_color=fff&icon_color=fff&theme=transparent" /> </div>
 
 You are my ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rk-3588) ,Thank You!😘😘
