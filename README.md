@@ -1,7 +1,7 @@
 ![contribution snake dark](./assets/github-contribution-grid-snake-dark.svg)
 ## Hi there 👋
-- 🔭 I’m currently working on development and exploration
-- 🌱 I’m currently learning FlashAttention
+- 🔭 I’m currently exploring full-stack development & AI applications
+- 🌱 I’m currently learning machine learning basics
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=How+it+works;Why;What)
 
